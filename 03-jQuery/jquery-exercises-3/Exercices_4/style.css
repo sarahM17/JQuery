@@ -1,0 +1,23 @@
+#buttons {
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+    margin: 10px;
+}
+
+button {
+    margin: 10px 0px;
+}
+
+#container {
+    position: relative;
+    display:flex;
+    flex-direction: row;
+}
+
+#myCanvas {
+    margin: 20px;
+    width: 150px;
+    height: 20px;
+    background-color: purple;
+}
