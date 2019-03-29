@@ -29,7 +29,7 @@ $("#btn_3").on("click", function(){
 })
 
 $("#btn_4").on("click", function(){
-    $("#myCanvas").remove()
+    $("#myCanvas").hide()
 })
 
 $("#btn_5").on("click", function(){
